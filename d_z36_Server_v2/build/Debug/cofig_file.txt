@@ -1,0 +1,4 @@
+localhost
+root
+admin_password23
+db_chat_dz25
